@@ -9,7 +9,7 @@
   <img src="assets/GlitchWelcome.svg" alt="WELCOME Glitch Effect" width="500"/>
 </p>
 
-## 👋 Hi there, I'm Yutisio12
+## 👋 Hi there, I'm Atoyi
 
 💡 **About Me**
 
@@ -40,10 +40,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=yutisio12&theme=github)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atoyi&theme=github)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yutisio12&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutisio12&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Atoyi&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atoyi&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/agung-ridho-yutisio-b95b02194/" target="_blank" disabled>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/yutisio12" target="_blank">
+  <a href="https://github.com/Atoyi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:agungridhoyutisio@gmail.com" target="_blank" disabled>
